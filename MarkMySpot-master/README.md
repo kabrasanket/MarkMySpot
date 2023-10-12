@@ -2,7 +2,7 @@
 
 ## Description:- 
 
-A simple web application through which a student can easily get their result and a teacher(Admin) can easily upload the student's mark details through a form.
+A result management system using Java and MySQL. The system was designed to be user-friendly and easy to navigate. The system includes features such as gradebook management, progress tracking.
 
 ## Working Functionality:-
 
